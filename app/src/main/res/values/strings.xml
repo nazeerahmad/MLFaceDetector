@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLFaceDetector</string>
+    <string name="detect">DETECT</string>
+    <string name="capture">Capture</string>
+</resources>
